@@ -69,7 +69,7 @@ placement_eligibility_app/
 
 ## 🙋‍♂️ Author
 
-Developed by **Pavith Kumar** with ❤️  
+Developed by **Thiyagarajan** with ❤️  
 Feel free to fork or star this project!
 
 ---
